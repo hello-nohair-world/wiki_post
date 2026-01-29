@@ -26,9 +26,9 @@ BASE_URL = "https://zh.wikipedia.org/"
 API_URL = urljoin(BASE_URL, "w/api.php")
 
 # 机器人账号：主账号@机器人名
-USERNAME = "Wisdom666666@python-login-mytest"
+USERNAME = "YourUserName@YourBotUsername"
 # 机器人密码：Special:BotPasswords
-PASSWORD = "38jbgqoq3do6ms4t548r1g4hanolql33"
+PASSWORD = "yourBotPassword"
 
 # 新闻动态页面的URL (简体中文移动版)
 NEWS_PORTAL_URL = "https://zh.m.wikipedia.org/wiki/Portal:新闻动态"

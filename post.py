@@ -17,8 +17,8 @@ from urllib.parse import urljoin
 BASE_URL = "https://zh.wikipedia.org/"
 API_URL = urljoin(BASE_URL, "w/api.php")
 
-USERNAME = "Wisdom666666"
-PASSWORD = "*Szh4044"
+USERNAME = "YourUserName"
+PASSWORD = "YourPassport"
 RETURN_URL = "https://zh.wikipedia.org/wiki/Main_Page"
 
 

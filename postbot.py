@@ -18,9 +18,9 @@ BASE_URL = "https://zh.wikipedia.org/"
 API_URL = urljoin(BASE_URL, "w/api.php")
 
 # 机器人账号：主账号@机器人名
-USERNAME = "Wisdom666666@python-login-mytest"
-# 机器人密码：Special:BotPasswords 生成的那串（建议用新生成的）
-PASSWORD = "38jbgqoq3do6ms4t548r1g4hanolql33"
+USERNAME = "YourUserName@YourBotUsername"
+# 机器人密码：Special:BotPasswords
+PASSWORD = "yourBotPassword"
 
 RETURN_URL = "https://zh.wikipedia.org/wiki/Main_Page"  # 保留不影响（本流程不强依赖）
 
